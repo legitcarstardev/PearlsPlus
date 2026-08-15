@@ -29,7 +29,7 @@
 ---
 
 ## Installation
-1. Download the latest `.jar` file from https://modrinth.com/mod/pearl-plus (unlisted).
+1. Download the latest `.jar` file from https://modrinth.com/mod/pearl-plus
 2. Place it in your `mods/` folder (located in your Minecraft directory).
 3. Launch the game using the **Fabric** profile.
 
