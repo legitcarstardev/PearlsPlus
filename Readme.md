@@ -1,4 +1,4 @@
-# EnderPearl Tweak Mod (Fabric 1.21.1)
+# PearlPlus (Fabric 1.21.11)
 
 ## 🌟 Overview
 **EnderPearl Tweak** is a lightweight **Fabric mod** for Minecraft **1.21.1** that enhances the Ender Pearl experience by displaying the **trajectory path** and the **thrower's name** (as a nametag) when an Ender Pearl is launched. This mod is **client-side only**, meaning it works in single-player and multiplayer without requiring server-side installation.
