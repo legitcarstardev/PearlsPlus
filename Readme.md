@@ -1,35 +1,38 @@
-# PearlPlus (Fabric 1.21.11)
+# Pearls+ (Fabric 1.21.11)
 
 ## Overview
-**PearlPlus** is a lightweight **Fabric mod** for Minecraft **1.21.1** that enhances the Ender Pearl experience by displaying the **thrower's name** (as a nametag) when an Ender Pearl is launched. This mod is **client-side only**, meaning it works in single-player and multiplayer without requiring server-side installation.
+**Pearls+** is a lightweight **Fabric mod** for Minecraft **1.21.11** that enhances the Ender Pearl experience by displaying the **thrower's name** (as a nametag) when an Ender Pearl is launched. This mod is **client-side only**, meaning it works in single-player and multiplayer without requiring server-side installation.
 
 ---
 
-##  Features
-
+## Features
 
 ### 1. **Thrower Nametag**
 - A **floating nametag** appears above the Ender Pearl, displaying the **username** of the player who threw it.
 - Useful in multiplayer to identify who is launching pearls (in combat/stasis chamber).
-- B **Custom Pearl Size** - Change the size of ender pearls after they have been thrown.
+- The thrower's name is cached the moment it's first resolved, so the nametag survives the owner briefly dropping out of tracking range or relogging - it won't disappear or show "null".
 
-
+### 2. **Mod Menu Configuration**
+- If [Mod Menu](https://github.com/TerraformersMC/ModMenu) is installed, Pearls+ adds a config screen with:
+  - **Show Nametag** - toggle the nametag on/off.
+  - **Nametag Scale** - adjust how large the nametag renders.
+  - **Max Distance** - control how far away the nametag stays visible.
 
 ---
 
-##  Requirements
+## Requirements
 - **Minecraft Version**: 1.21.11
-- **Fabric Loader**: ≥0.16.0
-- **Fabric API**
+- **Java**: 21+
+- **Fabric Loader**: ≥0.19.0
+- **Fabric API**: latest release for 1.21.11
+- **Mod Menu** *(optional)*: required only for the in-game config screen
 
 ---
 
-##  Installation
-1. Download the latest `.jar` file from https://modrinth.com/mod/pearl-plus.
+## Installation
+1. Download the latest `.jar` file from https://modrinth.com/mod/pearl-plus (unlisted).
 2. Place it in your `mods/` folder (located in your Minecraft directory).
 3. Launch the game using the **Fabric** profile.
-
-
 
 ---
 
@@ -40,9 +43,8 @@ This mod is released under the **MIT License**. Feel free to modify or redistrib
 
 ## Screenshots
 
-- **Nametag Display**: ![img_1.png](img_1.png)
-- 
+- **Nametag Display**: ![nametag-example.png](nametag-example.png)
 
 ---
 
-**Enhance your Ender Pearl game with PearlPlus!** 
+**Enhance your Ender Pearl game with Pearls+!**
