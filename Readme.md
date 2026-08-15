@@ -10,7 +10,7 @@
 ### 1. **Thrower Nametag**
 - A **floating nametag** appears above the Ender Pearl, displaying the **username** of the player who threw it.
 - Useful in multiplayer to identify who is launching pearls (in combat/stasis chamber).
-- The thrower's name is cached the moment it's first resolved, so the nametag survives the owner briefly dropping out of tracking range or relogging - it won't disappear or show "null".
+- The thrower's name is cached the moment it's first resolved, so the nametag survives the owner briefly dropping out of tracking range or relogging - it won't disappear
 
 ### 2. **Mod Menu Configuration**
 - If [Mod Menu](https://github.com/TerraformersMC/ModMenu) is installed, Pearls+ adds a config screen with:
