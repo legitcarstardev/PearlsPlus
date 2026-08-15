@@ -24,9 +24,8 @@
 - **Minecraft Version**: 1.21.11
 - **Java**: 21+
 - **Fabric Loader**: ≥0.19.0
-- **Fabric API**: latest release for 1.21.11
-- **Mod Menu** *(optional)*: required only for the in-game config screen
-
+- **Fabric API**: [Fabric API ](https://github.com/FabricMC/fabric-api)latest release for 1.21.11
+- **Mod Menu**:[Mod Menu ](https://github.com/TerraformersMC/ModMenu) required only for the in-game config screen
 ---
 
 ## Installation
