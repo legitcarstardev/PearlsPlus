@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "pearlsplus",
+  "version": "1.0.0",
+  "name": "Pearls+",
+  "description": "Shows a nametag with the thrower's name above thrown Ender Pearls. Includes Mod Menu options to toggle the nametag and adjust its scale and render distance.",
+  "authors": ["ar1hurgit"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ar1hurgit.pearlsplus.client.PearlNameClient"
+    ],
+    "modmenu": [
+      "ar1hurgit.pearlsplus.client.PearlsPlusModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
