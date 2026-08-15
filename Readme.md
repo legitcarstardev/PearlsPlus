@@ -38,10 +38,11 @@ This mod is released under the **MIT License**. Feel free to modify or redistrib
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 *(Insert screenshots here if available)*
-- **Trajectory Path**: ![img.png](img.png)
+
 - **Nametag Display**: ![img_1.png](img_1.png)
+- 
 
 ---
 
