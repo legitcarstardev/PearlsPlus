@@ -42,7 +42,8 @@ This mod is released under the **MIT License**. Feel free to modify or redistrib
 
 ## Screenshots
 
-- **Nametag Display**: ![nametag-example.png](nametag-example.png)
+- **Nametag Display**: ![nametag-example.png](EnderPearlExample.png)
+- **Nametag Display**: ![ModMenu.png](ModMenuExample.png)
 
 ---
 
